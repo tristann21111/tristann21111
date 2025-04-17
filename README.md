@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello, I'm Tristan👋
+I am an Aspiring Cybersecurity professional with a strong passion for technology and a solid foundation in network security, risk management, and security auditing. Currently completing the Google Cybersecurity Professional Certificate and actively pursuing CompTIA Security+ and Network+ certifications. Adept at problem-solving, working in teams, and communicating effectively—built through professional experience in both the tech and real estate sectors. Eager to contribute to a forward-thinking IT or cybersecurity team while continuing to grow and learn within the field.
 
-<!--
-**tristann21111/tristann21111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Objective
 
-Here are some ideas to get you started:
+I am currently studying and gathering my Google Professional Cybersecurity Cerificate whilst using other tools such as HackTheBox and from then I will proceed to gain my CompTIA Security+ and CompTIA Network+ and continue learning!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills!
+
+Operating Systems: Linux, Windows, Ubuntu
+Networking: Network Security, Risk Management, Protocols
+Programming/Scripting: Basic Python
+Virtualization: VirtualBox
+Malware Analysis: Wireshark (Basics)
+Tools: Microsoft Excel, Microsoft Word, Security Auditing (course-based)
+Other: Problem Solving, Creative Thinking, Team CollaborationM
